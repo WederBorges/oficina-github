@@ -1,0 +1,12 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f8;
+    color: #333333;
+    
+    /* Centraliza o conteúdo na tela (vertical e horizontal) */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
